@@ -1,0 +1,5 @@
+# core
+rich>=13.0
+
+# optional: only needed for `analyze --pcap`
+# scapy>=2.5
